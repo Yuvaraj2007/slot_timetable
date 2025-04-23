@@ -24,8 +24,8 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-''''
-<html>
+     ''''
+    <html>
     <head>
         <title> Course Schedule </title>
     </head>
@@ -118,10 +118,10 @@ Execute the program using runserver command.
                 <td>ENGINEERING DESIGN AND MODELLING</td>
             </tr>
         </table>
-    </body>
-</html>
+      </body>
+    </html>
 
-''''          
+    ''''          
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-04-23 174609.png>)
